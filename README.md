@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Nidhi 👋</h1>
+<h1 align="center"> Nidhi Saini</h1>
 
 <p align="center">
-🌸 First-Year BCA Student | 💻 Tech Explorer
+First-Year BCA Student | 💻 Tech Explorer
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 - 🌱 Just completed my **first year in BCA**
 - 💡 Currently learning **Python** & diving into **Data Structures**
-- 👩‍💻 Know C, C++, Java, HTML — and growing fast!
+- 👩‍💻 Know C, C++, Java, HTML
 - 🚀 Passionate about **web dev, creative tech**
 
 ---
