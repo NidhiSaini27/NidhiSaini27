@@ -26,9 +26,7 @@
 Languages:   C, C++, Java, Python (learning), HTML  
 Web:         HTML, CSS, JS  
 Tools:       Git, GitHub, VS Code, Figma, Canva
-```  <!-- This line was missing, it closes the code block -->
-
----
+```
 
 
 
