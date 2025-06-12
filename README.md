@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Nidhi 👋</h1>
 
-<!--
-**NidhiSaini27/NidhiSaini27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌸 First-Year BCA Student | 💻 Tech Explorer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🌱 Just completed my **first year in BCA**
+- 💡 Currently learning **Python** & diving into **Data Structures**
+- 👩‍💻 Know C, C++, Java, HTML — and growing fast!
+- 🚀 Passionate about **web dev, creative tech**
+
+---
+
+### 💼 My Projects
+  - **Velora**- Flower Bouquets
+  - **HerHealth**- help girls and women track their periods, moods, and symptoms with a smart tracker and dashboard.
+- 👩‍🎨 Working on more cool ideas soon!
+
+---
+
+### 🛠️ Tech Stack
+```bash
+Languages:   C, C++, Java, Python (learning), HTML  
+Web:         HTML, CSS, JS 
+Tools:       Git, GitHub, VS Code, Figma,Canva
+
+---
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nidhi%20Saini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nidhi-saini-545627283)
+
+📫 **Email**: [nidhisaini9a@gmail.com](mailto:nidhiportfolio.work@gmail.com)    
+🐙 **GitHub**: [github.com/NidhiSaini27](https://github.com/NidhiSaini27)
+
+
