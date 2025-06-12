@@ -30,12 +30,6 @@ Tools:       Git, GitHub, VS Code, Figma, Canva
 
 ---
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nidhi%20Saini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nidhi-saini-545627283)
-
-📫 **Email**: [nidhisaini9a@gmail.com](mailto:nidhisaini9a@gmail.com)  
-🐙 **GitHub**: [github.com/NidhiSaini27](https://github.com/NidhiSaini27)
 
 
 
