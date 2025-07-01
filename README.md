@@ -17,7 +17,7 @@ First-Year BCA Student | Tech Explorer
 ###  My Projects
   - **Velora**- Flower Bouquets
   - **HerHealth**- help girls and women track their periods, moods, and symptoms with a smart tracker and dashboard.
-- 👩‍🎨 Working on more cool ideas soon!
+-  Working on more cool ideas soon!
 
 ---
 
