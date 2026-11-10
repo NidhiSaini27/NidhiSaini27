@@ -26,8 +26,8 @@ Other projects: **HerHealth** (period & mood tracker with a smart dashboard) · 
 - **Tools:** Git, GitHub, VS Code, Figma, Canva
 
 ### 📊 GitHub Stats
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidhiSaini27&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiSaini27&layout=compact&theme=tokyonight)
+![Nidhi's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=NidhiSaini27&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=NidhiSaini27&layout=compact&theme=tokyonight)
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nidhi-saini-36952a324/)
