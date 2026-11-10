@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:ff3131&height=140&section=header)
+<img src="https://raw.githubusercontent.com/NidhiSaini27/NidhiSaini27/main/banner.svg" width="100%" />
 
 <div align="center">
 
@@ -79,6 +79,18 @@ Also built: **HerHealth** (period & mood tracker) · **Velora** (flower bouquet 
 <div align="center">
 
 ⚡ Open to hackathons, collaborations and video-editing projects.
+
+</div>
+
+## 🐍 Watch the Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NidhiSaini27/NidhiSaini27/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NidhiSaini27/NidhiSaini27/output/github-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NidhiSaini27/NidhiSaini27/output/github-snake.svg">
+</picture>
 
 </div>
 
