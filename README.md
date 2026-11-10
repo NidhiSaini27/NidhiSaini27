@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:ff3131&height=140&section=header)
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3131&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Nidhi+Saini;Full-Stack+Developer;5x+National+Hackathon+Finalist;Learning+AI%2FML)
@@ -24,6 +26,15 @@ const nidhi = {
 };
 ```
 
+## 🏆 Highlights
+
+| | |
+|---|---|
+| 🥇 | **5× National Hackathon Finalist** as Team Lead — Delhi, Haryana, Punjab & Mumbai (2025–2026) |
+| 🎤 | **Team Lead & Presenter** — Eureka Startup Pitch Challenge, IIT Bombay E-Cell |
+| 🚨 | Built **Sahayta** — a crisis-response platform with SOS alerts, live crisis map & offline chat |
+| 🎓 | BCA @ DSEU with **9.34 CGPA** |
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,6 +57,12 @@ const nidhi = {
 **Sahayta Crisis Response** — an emergency assistance platform built at hackathons: one-tap SOS alerts to responders & emergency contacts, a live crisis intelligence map, a resource directory locator, an emergency preparedness academy, and offline chat that works without internet.
 Also built: **HerHealth** (period & mood tracker) · **Velora** (flower bouquet storefront) · **EduCare**
 
+## 🎬 Beyond Code
+
+- 👻 I script, edit and produce **horror-storytelling videos** — dark mysteries & true crime
+- 🎵 I **compose music** and write **poems & stories**
+- ⚡ Off-screen too, I chase the same thing as in code: a story that keeps you hooked till the end
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -64,3 +81,5 @@ Also built: **HerHealth** (period & mood tracker) · **Velora** (flower bouquet 
 ⚡ Open to hackathons, collaborations and video-editing projects.
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:ff3131&height=120&section=footer)
