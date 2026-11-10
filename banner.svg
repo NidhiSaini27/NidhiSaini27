@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.55" stop-color="#1a0505"/>
+      <stop offset="1" stop-color="#3d0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect x="0" y="-40" width="1200" height="36" fill="#ff3131" opacity="0.08">
+    <animateTransform attributeName="transform" type="translate" from="0 -60" to="0 360" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="92" text-anchor="middle">
+    <text x="600" y="140" fill="#ff3131" opacity="0.85">NIDHI SAINI
+      <animate attributeName="x" values="600;600;606;596;600;600" keyTimes="0;0.86;0.89;0.93;0.96;1" dur="2.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="140" fill="#22d3ee" opacity="0.7">NIDHI SAINI
+      <animate attributeName="x" values="600;600;594;605;600;600" keyTimes="0;0.86;0.89;0.93;0.96;1" dur="2.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="140" fill="#ffffff">NIDHI SAINI
+      <animate attributeName="opacity" values="1;1;0.4;1;1" keyTimes="0;0.88;0.91;0.95;1" dur="2.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <text x="600" y="205" font-family="'Segoe UI', Arial, sans-serif" font-size="30" letter-spacing="6" fill="#fca5a5" text-anchor="middle">FULL-STACK DEVELOPER</text>
+  <text x="600" y="252" font-family="'Segoe UI', Arial, sans-serif" font-size="22" letter-spacing="4" fill="#9ca3af" text-anchor="middle">5x NATIONAL HACKATHON FINALIST - LEARNING AI/ML
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
